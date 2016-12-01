@@ -1,7 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+	"net/http"
+)
 
 func main() {
-	fmt.Printf("hello, world\n")
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		w.Write([]byte("hello, world\n"))
+	})
+	addr := ":80"
+	fmt.Println("Example app listening on port ", addr)
+	log.Fatal(http.ListenAndServe(addr, nil))
 }
