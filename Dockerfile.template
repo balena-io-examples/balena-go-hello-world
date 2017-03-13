@@ -1,4 +1,4 @@
-FROM resin/%%RESIN_MACHINE_NAME%%-golang
+FROM resin/%%RESIN_MACHINE_NAME%%-golang:slim
 
 ENV INITSYSTEM on
 
