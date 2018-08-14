@@ -1,7 +1,0 @@
-uuid: b43706105f608cbbec05810f70c360e2d2d2fb3ee549cef92a66a696127bd8
-destination: /go/src/github.com/resin-io-projects/resin-go-hello-world
-port: 22
-before: env GOOS=linux GOARCH=arm go build
-ignore:
-  - .git
-  - node_modules/
