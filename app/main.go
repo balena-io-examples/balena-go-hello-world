@@ -8,7 +8,7 @@ import (
 
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("hello, world\n"))
+		w.Write([]byte("hello, world (from go!)\n"))
 	})
 	addr := ":80"
 	fmt.Println("Example app listening on port ", addr)
