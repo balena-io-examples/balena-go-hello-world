@@ -4,6 +4,8 @@ WORKDIR /go/src/github.com/balena-io-projects/app
 
 COPY /app ./
 
+RUN go mod init
+
 RUN go build
 
 FROM balenalib/%%BALENA_MACHINE_NAME%%-debian:stretch
