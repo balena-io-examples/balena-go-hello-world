@@ -12,11 +12,11 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/balena-io-examples/balena-python-hello-world/'
+      url: 'https://github.com/balena-io-examples/balena-go-hello-world/'
   logo:
     type: blob.asset
     data:
-      url: 'https://raw.githubusercontent.com/balena-io-examples/balena-nodejs-hello-world/master/logo.png'
+      url: 'https://raw.githubusercontent.com/balena-io-examples/balena-go-hello-world/master/logo.png'
 data:
   supportedDeviceTypes:
     - generic-x86-64-ext
