@@ -1,0 +1,177 @@
+- commits:
+    - subject: "patch: replace balenaCI with flowzone"
+      hash: 4b49189331dc7c38d2208c4e9560fdb0d8dc74fe
+      body: ""
+      footer:
+        Signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+      author: Vipul Gupta (@vipulgupta2048)
+      nested: []
+  version: 1.0.3
+  title: ""
+  date: 2022-11-07T11:02:12.541Z
+- version: 1.0.2
+  date: 2022-06-13T11:48:44Z
+  commits:
+    - hash: b023fa33745f2201a04cbfc40a6580dcbe511952
+      author: Vipul Gupta (@vipulgupta2048)
+      footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+      subject: "patch: Fix balena.yml to mention Go"
+      body: null
+- version: 1.0.1
+- date: 2022-06-13T11:23:42Z
+- commits:
+    - hash: 81106415c2828aebe94fe6eaf443cfc3806b2e23
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: "patch: Convert balenaHub fleet to app"
+- commits:
+    - body: null
+- commits:
+    - hash: 0871766444a43010c9e402f24966c21577cd9597
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: "patch: fix logo for balenaHub"
+- commits:
+    - body: null
+- commits:
+    - hash: 3fe01d4458432215cb1c0a2564510a0e74c0d4b3
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: "patch: Add logo for balenaHub"
+- commits:
+    - body: null
+- version: 1.0.0
+- date: 2022-06-06T14:05:33Z
+- commits:
+    - hash: fa4e9b471eb89b58683e968af3b48cc3d20575b0
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: "major: Upgrade Go server to match new experience"
+- commits:
+    - body: null
+- commits:
+    - hash: 446c439c80d614ec34fd4e47f1d91e0f58f93050
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: Add README and balena.yml
+- commits:
+    - body: null
+- commits:
+    - hash: 2cfe29cd07b9ec8c0dc2e0a41c1780f8d5fd10aa
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: Add license
+- commits:
+    - body: null
+- commits:
+    - hash: 277e345705e3d84d1380eef2d7ff5ee4b5b650e0
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: "patch: Reduce image size with multi-stage"
+- commits:
+    - body: null
+- version: 0.0.3
+- date: 2021-10-17T07:18:34Z
+- commits:
+    - hash: bef6dc18c6ae0f37cfdd8b718fc39cd57c291034
+- commits:
+    - author: Gareth Davies
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Gareth Davies <gareth@balena.io>
+- commits:
+    - subject: "docs: Updating README"
+- commits:
+    - body: null
+- version: 0.0.2
+- date: 2021-10-17T07:07:56Z
+- commits:
+    - hash: 566c11d6d8bb2fb23b4c0b60a8dc040b9d158b00
+- commits:
+    - author: Miguel Casqueira
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Miguel Casqueira <miguel@balena.io>
+- commits:
+    - subject: Initial default go module when building
+- commits:
+    - body: null
+- commits:
+    - hash: 69140e27274cf7a73b95dd7950dfb7a59c233e40
+- commits:
+    - author: Vipul Gupta (@vipulgupta2048)
+- commits:
+    - footers:
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+- commits:
+    - subject: Add repo.yml
+- commits:
+    - body: null
+- commits:
+    - hash: e6d257da46da84a8a5286940e1048b2032ff3b52
+- commits:
+    - author: Shaun Mulligan
+- commits:
+    - subject: update and cleanup
+- commits:
+    - body: null
+- commits:
+    - hash: ca45c854f391f8fff942f3120c8427534d27c393
+- commits:
+    - author: Shaun Mulligan
+- commits:
+    - subject: further clean up
+- commits:
+    - body: null
+- commits:
+    - hash: 1ae200640586ed5b807e53f706e23eb72df02f31
+- commits:
+    - author: Will Newton
+- commits:
+    - subject: "Dockerfile.template: Use slim golang image"
+- commits:
+    - body: This reduces the size of the example image from ~770MB to ~550MB.
+- commits:
+    - hash: 8db05e8ff65c717ac8bcbc2a33e097dd0bd997da
+- commits:
+    - author: gernest
+- commits:
+    - subject: Make it a server
+- commits:
+    - body: null
