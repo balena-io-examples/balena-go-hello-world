@@ -1,4 +1,4 @@
-FROM balenalib/%%BALENA_ARCH%%-debian-golang:1.17-build as build
+FROM golang:1.24.2-bookworm as build
 
 WORKDIR /go/src/github.com/balena-go-hello-world
 
@@ -6,7 +6,7 @@ COPY src/ src/
 
 RUN go mod init && go build /go/src/github.com/balena-go-hello-world/src/server.go
 
-FROM balenalib/%%BALENA_ARCH%%-debian:latest-run
+FROM debian:bookworm-slim
 
 WORKDIR /go/src/github.com/balena-go-hello-world
 
